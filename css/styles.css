@@ -1,0 +1,51 @@
+body {
+    background-color: rosybrown;
+    font-family: Arial, sans-serif;
+  }
+  
+  p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  a {
+    text-decoration: none; /* Remove underline by default */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  
+  
+  hr {
+    border: none; /* Remove the default border */
+    border-top: 1px dashed slategray; /* Add a dashed border on top */
+  }
+  
+  
+  .profile-image {
+    width: 80%;
+  }
+
+  
+  .designation {
+    font-weight: normal;
+    color: grey;
+  }
+  
+  .company {
+    font-weight: normal;
+    color: lightgrey;
+  }
+  
+  .business-card {
+    width: 300px;
+    background-color: orange;
+    padding: 20px;
+    margin: 100px;
+    text-align: center;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
